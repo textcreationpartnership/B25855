@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from an English officer in His Majesty's Army in Ireland. Giving a true account of the progress of affairs in that kingdom: together with what past at the surrender of Waterford and Duncannon. And of his Majesties march towards Limmerick. Dated July 29. 1690.</title>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B25855</idno><idno type="EEBO-CITATION">99885001</idno>
+  <idno type="VID">187637</idno>
+  <idno type="EEBO-PROQUEST">2240890801</idno>
+  
+            <idno type="STC">Wing L1446A</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.23[76]</idno>
+            <idno type="STC">ESTC R220388</idno>
+            <idno type="PROQUEST">ocm99885001</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99885001e"/>
+            <note>(EEBO-TCP ; phase 2, no. B25855)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 187637)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C8:2[73])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from an English officer in His Majesty's Army in Ireland. Giving a true account of the progress of affairs in that kingdom: together with what past at the surrender of Waterford and Duncannon. And of his Majesties march towards Limmerick. Dated July 29. 1690.</title>
+               </titleStmt>
+               <extent>1 sheet (2 p.).   </extent>
+               <publicationStmt>
+                  <publisher>printed for Richard Baldwin in the Old-Bailey,</publisher>
+                  <pubPlace>London: :</pubPlace>
+                  <date>1690.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Advertisement on verso.</note>
+                  <note>Imperfect: faded print.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">England and Wales. --  Army --  Early works to 1800.</term>
+               <term type="geographic_name">Ireland --  History --  War of 1689-1691 --  Early works to 1800.</term>
+               <term type="geographic_name">Duncannon (Ireland) --  History --  Early works to 1800.</term>
+               <term type="geographic_name">Waterford (County) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-12 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-12 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:187637:1"/>
+            <pb n="1" facs="tcp:187637:1"/>
+            <head>A LETTER From an English Officer In His Majesty's Army in <hi>IRELAND.</hi> Giving a True Account of the Progress of Affairs in that Kingdom: Together with what past at the Surrender of <hi>Waterford and Duncannon.</hi> And of his Majesties March towards LIMMERICK.</head>
+            <opener>
+               <dateline>Dated <date>
+                     <hi>July</hi> 29th. 1690.</date>
+               </dateline>
+            </opener>
+            <p>ON Munday the Twenty first instant in the Evening, His Majesty sent a Trum<g ref="char:EOLhyphen"/>pet to the Governor of <hi>Waterford,</hi> with a Summons to Surrender; they seem<g ref="char:EOLhyphen"/>ed something stout at first, but on Wednesday the Twenty third, Major General <hi>Kirk</hi> Marched with the Artillery, and Four Regiments of Foot, <hi>viz.</hi> his own, Lord <hi>Lisbournes,</hi> Collonel <hi>Brewer,</hi> and Collo<g ref="char:EOLhyphen"/>nel <hi>Cambons.</hi> The Enemy burnt down the Sub<g ref="char:EOLhyphen"/>burbs next to us, broke down all the Ditches, and spoyled all the Gardens that might have sheltred our Men; but the close March of our Forces re<g ref="char:EOLhyphen"/>duced them to a humour of yielding to a Capitu<g ref="char:EOLhyphen"/>lation; and they sent to His Majesty to send Three Commissioners, in order to Treat about it; and accordingly the same day Collonel <hi>Cambon,</hi> with Two more, were appointed to Treat with Three of their chief Officers about the Surrender.</p>
+            <p>Several Expresses passed betwixt them and us, until Thursday in the morning, that it was a<g ref="char:EOLhyphen"/>greed upon they should March out with their Arms, their Colours Furl'd, without beat of Drum. And these Conditions were the rather given them, for the Protestant Inhabitants of the Towns sake. Then Major General <hi>Kirk</hi> took possession of the Garrison, about Twelve of the Clock on the Twenty fith.</p>
+            <p>I had the honour to attend His Majesty thither, who Road so near the Town, as to view the Walls and Scituation thereof; and after he had done, His Majesty went directly to Major General <hi>Kirks</hi> Tent, Three Miles from the Camp and there Dined.</p>
+            <p>The Rebels Marched out about Fourteen Hun<g ref="char:EOLhyphen"/>dred, but sorry wretched fellows I ever saw, and were led by their Governour, Collonel <hi>Henry Lut<g ref="char:EOLhyphen"/>trel</hi> being gone; and are to be Convey'd by a Troop of Horse, and another of Dragoons, to a considerable Town called <hi>Mallow.</hi> They had but two bung Carts of Baggage with them.</p>
+            <p>I had the opportunity to stand at the Gate, and see the Rebels March out, amongst whom was a brisk young Spark an Officer, who coming out of the gate, I heard him say, <hi>I have Marched with you
+<pb n="2" facs="tcp:187637:2"/> Brethren long enough for nothing, wherefore I shall for<g ref="char:EOLhyphen"/>bear any farther progress with you, and so farewell,</hi> marching back into the Town.</p>
+            <p>
+               <hi>Duncannon</hi> Fort Capitulated, and after that the Articles were Agreed, upon the appearing of some Ships in the Harbour, which they believed to be some of the French Ships, they made a difficul<g ref="char:EOLhyphen"/>ty to stand to the Capitulation▪ and expected to have got better Conditions; but when they under<g ref="char:EOLhyphen"/>stood that it was some of Sir <hi>Cloudsly Shovels</hi> Squadron of Ships, they were glad to stand to the first Capitulation, and Surrendered.</p>
+            <p>There were Thirty five Guns Mounted in <hi>Wa<g ref="char:EOLhyphen"/>terford</hi> upon the Walls, which we find to be a far better City than <hi>Kilkenny,</hi> there being a famous River, of at least Twenty one foot at low-water; a little of the Key, and a pretty Fort that Com<g ref="char:EOLhyphen"/>mands the Town joyning to St. <hi>Johns</hi> Gate, where our Forces entred the Town.</p>
+            <p>On Saturday the Twenty sixth His Majesty went towards <hi>Dublin,</hi> with an intention to Em<g ref="char:EOLhyphen"/>bark for <hi>England;</hi> and having staid but one night at <hi>Chappel-Lizard,</hi> which is about two Miles from <hi>Dublin,</hi> he altered his Resolution, and went back to the Army that is marching towards <hi>Limerick,</hi> where the Lord <hi>Tyrconnel,</hi> and almost all the French Souldiers that came from <hi>France</hi> to help King <hi>James</hi> are shut up; Lieutenant General <hi>Douglass</hi> has had orders to leave <hi>Athlone,</hi> and to come and joyn His Majesties Army before <hi>Limerick.</hi>
+            </p>
+            <p>They are now setling the Corporations of <hi>Clon<g ref="char:EOLhyphen"/>mel</hi> and <hi>Waterford.</hi> There was found in the last great store of Provisions, Three thousand Barrels of French Wheat, great store of Bacon and Cheese, and other things. There were four of the Ene<g ref="char:EOLhyphen"/>mies Ships in the Harbour of <hi>Duncannon,</hi> when they were Capitulating, but two of our Ships of some force coming on, took one and pursued another under <hi>Duncannon</hi> Fort, and in a little time became Master of her also.</p>
+            <p>There are Twelve Hundred Horse, and Five Re<g ref="char:EOLhyphen"/>giments of Foot ordered to be Transported for <hi>England,</hi> amongst which are the two Troops of Guards, with the Horse Granadeers, Collonel <hi>Ma<g ref="char:EOLhyphen"/>thews</hi> Dragoons, Lord <hi>Portlands,</hi> and Count <hi>Schom<g ref="char:EOLhyphen"/>bergs</hi> Regiment of Horse.</p>
+            <p>Lieutenant General <hi>Douglass</hi> before he removed to <hi>Athlone,</hi> thought fit to leave a Blockade there, that should shut up all Communication that Town might have with the Neighbouring Country, and so pass the River <hi>Shanon,</hi> and Marches to the Camp that is to be formed before <hi>Limerick,</hi> and invest it on the other side, His Majesties Army Marching to Invest it on the other side. We make account to be Encamped before that Town on Tuesday next; there are some of Sir <hi>Cloudesly Shovels</hi> Squadron of Men of War, that are orde<g ref="char:EOLhyphen"/>red to block it up by Sea, all which together, in a little time we hope, will enable us to give you a good account of that place, which will in all probability determine the Fate of that King<g ref="char:EOLhyphen"/>dom.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <head>ADVERTISEMENT.</head>
+            <p>
+               <hi>A</hi> True Relation of the Cruelties and Barbarities of the French, upon the English Prisoners of War being a Journal of their Travels from <hi>Dinan</hi> in <hi>Britany,</hi> to <hi>Thoulon</hi> in <hi>Province,</hi> and back again. With a Description of the Scituation, and Fortifications of all the Eminent Towns upon the Road, and their Di<g ref="char:EOLhyphen"/>stance. Of their Prisons and Hospitals, and the number of the Men that died under their Cruelty: With the Names of many of them, and the Places of their Deaths and Burials: With an Account of the great Charity and Sufferings of the poor Protestants of <hi>France:</hi> And other Material Things that hapned upon the way. Faithfully and Impartially performed by <hi>Richard Strutton,</hi> being an Eye-witness, and a Fellow-Sufferer. Printed for <hi>Richard Baldwin</hi> in the <hi>Old-Bailey. 1690.</hi>
+            </p>
+         </div>
+         <div type="colophon">
+            <p>
+               <hi>London:</hi> Printed for <hi>Richard Baldwin</hi> in the <hi>Old-Bailey.</hi> 1690.</p>
+            <pb facs="tcp:187637:2"/>
+         </div>
+      </back>
+   </text>
+</TEI>
